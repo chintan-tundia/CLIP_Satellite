@@ -1,0 +1,14 @@
+# Ignore data
+data/
+
+# Ignore model weights
+models/
+*.pt
+*.pth
+
+# Ignore logs
+logs/
+*.log
+
+# Ignore system files
+.DS_Store
